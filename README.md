@@ -1,0 +1,2 @@
+# calamity-alert-android-application
+An android application in which user can alert other users about any kind of calamity happening to him through notifications.Notifications which would be sent through firebase will contain user's location on google map.Moreover user can add members to send notifications to or can send notification to every user using this application.Local server is used as database.
